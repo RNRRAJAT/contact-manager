@@ -1,1 +1,2 @@
-In this you can sign up, login and save your contacts and update and delete them. Other users cannot see your contacts
+In this repo there is only the backend part of a contact manager website.
+I created the api for signup, login, logout and save, update and delete contacts.
